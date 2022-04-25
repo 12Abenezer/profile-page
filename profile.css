@@ -1,0 +1,35 @@
+.nav{
+    display: flex;
+    background-color: darkslategrey;
+    color: aliceblue;
+    
+    justify-content: space-evenly;
+    
+    
+}
+#nav-links{
+    display: inline-flex;
+    align-items: center;
+    gap: 85px;
+    
+
+}
+
+
+.btn{
+    align-items: center;
+    background-color: aqua;
+}
+
+.active{
+    color: aliceblue;
+}
+.c{
+    color: aliceblue;
+}
+.b{
+    color: aliceblue;
+}
+.nav-title{
+    
+}
